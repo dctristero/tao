@@ -19,7 +19,7 @@ const TanslateBtns = ({ verseNumber }) => {
   return (
     <chakra.p key={selectedVerse.id} px={4} m={2} color={["primary.300"]}>
       {verseText.split("").map((char, index) =>
-        char === "，" || char === "。" || char === "；" ? (
+        char === "，" || char === "。" || char === "；" || char === "！" || char === "："? (
           char
         ) : (
           <Button
