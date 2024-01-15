@@ -44,7 +44,7 @@ const Grid = () => {
             {makeNum().map((number) => (
                 <Button
                   as={Link}
-                  to={`${number}`}
+                  to={`/tao/${number}`}
                   key={number}
                   borderColor={["primary.100"]}
                   borderWidth=".2vw"
