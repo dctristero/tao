@@ -43,12 +43,3 @@ export default function Test() {
     </div>
   );
 }
-
-
-// make each set of characters an array
-// link with template literal of variable in place of chinese character
-// make value of clicked character into variable?
-// link open in new tab
-
-
-// "https://translate.google.com/?sl=zh-TW&tl=en&text=經&op=translate"
