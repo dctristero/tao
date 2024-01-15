@@ -1,3 +1,17 @@
+import React from "react";
+import { Link, useParams } from "react-router-dom";
+import {
+  ChakraProvider,
+  Box,
+  Flex,
+  SimpleGrid,
+  chakra,
+  Button,
+  VStack
+} from "@chakra-ui/react";
+import Grid from "../components/grid"
+import TranslateBtns from "../components/translateBtns"
+
 const VersePage = () => {
   const { verseNumber } = useParams();
   const parsedVerseNumber = parseInt(verseNumber, 10) || 1;
