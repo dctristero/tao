@@ -324,3 +324,330 @@ export const chineseTexts = [
     text: "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
   },
 ];
+
+export const trMcDonald = [
+  {
+    id: 1,
+    text: "The tao that can be described\nis not the eternal Tao.\nThe name that can be spoken\nis not the eternal Name.\n\nThe nameless is the boundary of Heaven and Earth.\nThe named is the mother of creation.\n\nFreed from desire, you can see the hidden mystery.\nBy having desire, you can only see what is visibly real.\n\nYet mystery and reality\nemerge from the same source.\nThis source is called darkness.\n\nDarkness born from darkness.\nThe beginning of all understanding."
+  },
+  {
+    id: 2,
+    text: "When people see things as beautiful,\nugliness is created.\nWhen people see things as good,\nevil is created.\n\nBeing and non-being produce each other.\nDifficult and easy complement each other.\nLong and short define each other.\nHigh and low oppose each other.\nFore and aft follow each other.\n\nTherefore the Master\ncan act without doing anything\nand teach without saying a word.\nThings come her way and she does not stop them;\nthings leave and she lets them go.\nShe has without possessing,\nand acts without any expectations.\nWhen her work is done, she takes no credit.That is why it will last forever."
+  },
+  {
+    id: 3,
+    text: "If you over esteem talented individuals,\npeople will become overly competitive.\nIf you overvalue possessions,\npeople will begin to steal.\n\nDo not display your treasures\nor people will become envious.\n\nThe Master leads by\nemptying people's minds,\nfilling their bellies,\nweakening their ambitions,\nand making them become strong.\nPreferring simplicity and freedom from desires,\navoiding the pitfalls of knowledge and wrong action.\n\nFor those who practice not-doing,\neverything will fall into place."
+  },
+  {
+    id: 4,
+    text: "The Tao is like an empty container:\nit can never be emptied and can never be filled.\nInfinitely deep, it is the source of all things.\nIt dulls the sharp, unties the knotted,\nshades the lighted, and unites all of creation with dust.\n\nIt is hidden but always present.\nI don't know who gave birth to it.\nIt is older than the concept of God."
+  },
+  {
+    id: 5,
+    text: "Heaven and Earth are impartial;\nthey treat all of creation as straw dogs.\nThe Master doesn't take sides;\nshe treats everyone like a straw dog.\n\nThe space between Heaven and Earth is like a bellows;\nit is empty, yet has not lost its power.\nThe more it is used, the more it produces;\nthe more you talk of it, the less you comprehend.\n\nIt is better not to speak of things you do not understand."
+  },
+  {
+    id: 6,
+    text: "The spirit of emptiness is immortal.\nIt is called the Great Mother\nbecause it gives birth to Heaven and Earth.\n\nIt is like a vapor,\nbarely seen but always present.\nUse it effortlessly."
+  },
+  {
+    id: 7,
+    text: "The Tao of Heaven is eternal,\nand the earth is long enduring.\nWhy are they long enduring?\nThey do not live for themselves;\nthus they are present for all beings.\n\nThe Master puts herself last;\nAnd finds herself in the place of authority.\nShe detaches herself from all things;\nTherefore she is united with all things.\nShe gives no thought to self.\nShe is perfectly fulfilled."
+  },
+  {
+    id: 8,
+    text: "The supreme good is like water,\nwhich benefits all of creation\nwithout trying to compete with it.\nIt gathers in unpopular places.\nThus it is like the Tao.\n\nThe location makes the dwelling good.\nDepth of understanding makes the mind good.\nA kind heart makes the giving good.\nIntegrity makes the government good.\nAccomplishment makes your labors good.\nProper timing makes a decision good.\n\nOnly when there is no competition\nwill we all live in peace."
+  },
+  {
+    id: 9,
+    text: "It is easier to carry an empty cup\nthan one that is filled to the brim.\n\nThe sharper the knife\nthe easier it is to dull.\nThe more wealth you possess\nthe harder it is to protect.\nPride brings its own trouble.\n\nWhen you have accomplished your goal\nsimply walk away.\nThis is the pathway to Heaven."
+  },
+  {
+    id: 10,
+    text: "Nurture the darkness of your soul\nuntil you become whole.\nCan you do this and not fail?\nCan you focus your life-breath until you become\nsupple as a newborn child?\nWhile you cleanse your inner vision\nwill you be found without fault?\nCan you love people and lead them\nwithout forcing your will on them?\nWhen Heaven gives and takes away\ncan you be content with the outcome?\nWhen you understand all things\ncan you step back from your own understanding?\n\nGiving birth and nourishing,\nmaking without possessing,\nexpecting nothing in return.\nTo grow, yet not to control:\nThis is the mysterious virtue."
+  },
+  {
+    id: 11,
+    text: "Thirty spokes are joined together in a wheel,\nbut it is the center hole\nthat allows the wheel to function.\n\nWe mold clay into a pot,\nbut it is the emptiness inside\nthat makes the vessel useful.\n\nWe fashion wood for a house,\nbut it is the emptiness inside\nthat makes it livable.\n\nWe work with the substantial,\nbut the emptiness is what we use."
+  },
+  {
+    id: 12,
+    text: "Five colors blind the eye.\nFive notes deafen the ear.\nFive flavors make the palate go stale.\nToo much activity deranges the mind.\nToo much wealth causes crime.\nThe Master acts on what she feels and not what she sees.\nShe shuns the latter, and prefers to seek the former."
+  },
+  {
+    id: 13,
+    text: "Success is as dangerous as failure,\nand we are often our own worst enemy.\n\nWhat does it mean that success is as dangerous as failure?\nHe who is superior is also someone's subordinate.\nReceiving favor and losing it both cause alarm.\nThat is what is meant by success is as dangerous as failure.\nWhat does it mean that we are often our own worst enemy?\nThe reason I have an enemy is because I have \"self\".\nIf I no longer had a \"self\", I would no longer have an enemy.\n\nLove the whole world as if it were your self;\nthen you will truly care for all things."
+  },
+  {
+    id: 14,
+    text: "Look for it, and it can't be seen.\nListen for it, and it can't be heard.\nGrasp for it, and it can't be caught.\nThese three cannot be further described,\nso we treat them as The One.\n\nIts highest is not bright.\nIts depths are not dark.\nUnending, unnamable, it returns to nothingness.\nFormless forms, and imageless images,\nsubtle, beyond all understanding.\n\nApproach it and you will not see a beginning;\nfollow it and there will be no end.\nWhen we grasp the Tao of the ancient ones,\nwe can use it to direct our life today.\nTo know the ancient origin of Tao:\nthis is the beginning of wisdom."
+  },
+  {
+    id: 15,
+    text: "The Sages of old were profound\nand knew the ways of subtlety and discernment.\nTheir wisdom is beyond our comprehension.\nBecause their knowledge was so far superior\nI can only give a poor description.\n\nThey were careful\nas someone crossing an frozen stream in winter.\nAlert as if surrounded on all sides by the enemy.\nCourteous as a guest.\nFluid as melting ice.\nWhole as an uncarved block of wood.\nReceptive as a valley.\nTurbid as muddied water.\n\nWho can be still\nuntil their mud settles\nand the water is cleared by itself?\nCan you remain tranquil until right action occurs by itself?\n\nThe Master doesn't seek fulfillment.\nFor only those who are not full are able to be used\nwhich brings the feeling of completeness."
+  },
+  {
+    id: 16,
+    text: "If you can empty your mind of all thoughts\nyour heart will embrace the tranquility of peace.\nWatch the workings of all of creation,\nbut contemplate their return to the source.\n\nAll creatures in the universe\nreturn to the point where they began.\nReturning to the source is tranquility\nbecause we submit to Heavens mandate.\n\nReturning to Heavens mandate is called being constant.\nKnowing the constant is called 'enlightenment'.\nNot knowing the constant is the source of evil deeds\nbecause we have no roots.\nBy knowing the constant we can accept things as they are.\nBy accepting things as they are, we become impartial.\nBy being impartial, we become one with Heaven.\nBy being one with Heaven, we become one with Tao.\nBeing one with Tao, we are no longer concerned about\nlosing our life because we know the Tao is constant\nand we are one with Tao."
+  },
+  {
+    id: 17,
+    text: "The best leaders are those the people hardly know exist.\nThe next best is a leader who is loved and praised.\nNext comes the one who is feared.\nThe worst one is the leader that is despised.\n\nIf you don't trust the people,\nthey will become untrustworthy.\n\nThe best leaders value their words, and use them sparingly.\nWhen she has accomplished her task,\nthe people say, \"Amazing:\nwe did it, all by ourselves!\""
+  },
+  {
+    id: 18,
+    text: "When the great Tao is abandoned,\ncharity and righteousness appear.\nWhen intellectualism arises,\nhypocrisy is close behind.\n\nWhen there is strife in the family unit,\npeople talk about 'brotherly love'.\n\nWhen the country falls into chaos,\npoliticians talk about 'patriotism'."
+  },
+  {
+    id: 19,
+    text: "Forget about knowledge and wisdom,\nand people will be a hundred times better off.\nThrow away charity and righteousness,\nand people will return to brotherly love.\nThrow away profit and greed,\nand there won't be any thieves.\n\nThese three are superficial and aren't enough\nto keep us at the center of the circle, so we must also:\n\nEmbrace simplicity.\nPut others first.\nDesire little."
+  },
+  {
+    id: 20,
+    text: "Renounce knowledge and your problems will end.\nWhat is the difference between yes and no?\nWhat is the difference between good and evil?\nMust you fear what others fear?\nNonsense, look how far you have missed the mark!\n\nOther people are joyous,\nas though they were at a spring festival.\nI alone am unconcerned and expressionless,\nlike an infant before it has learned to smile.\nOther people have more than they need;\nI alone seem to possess nothing.\nI am lost and drift about with no place to go.\nI am like a fool, my mind is in chaos.\n\nOrdinary people are bright;\nI alone am dark.\nOrdinary people are clever;\nI alone am dull.\nOrdinary people seem discriminating;\nI alone am muddled and confused.\nI drift on the waves on the ocean,\nblown at the mercy of the wind.\nOther people have their goals,\nI alone am dull and uncouth.\n\nI am different from ordinary people.\nI nurse from the Great Mother's breasts."
+  },
+  {
+    id: 21,
+    text: "The greatest virtue you can have\ncomes from following only the Tao;\nwhich takes a form that is intangible and evasive.\n\nEven though the Tao is intangible and evasive,\nwe are able to know it exists.\nIntangible and evasive, yet it has a manifestation.\nSecluded and dark, yet there is a vitality within it.\nIts vitality is very genuine.\nWithin it we can find order.\n\nSince the beginning of time, the Tao has always existed.\nIt is beyond existing and not existing.\nHow do I know where creation comes from?\nI look inside myself and see it."
+  },
+  {
+    id: 22,
+    text: "If you want to become whole,\nfirst let yourself become broken.\nIf you want to become straight,\nfirst let yourself become twisted.\nIf you want to become full,\nfirst let yourself become empty.\nIf you want to become new,\nfirst let yourself become old.\nThose whose desires are few get them,\nthose whose desires are great go astray.\n\nFor this reason the Master embraces the Tao,\nas an example for the world to follow.\nBecause she isn't self centered,\npeople can see the light in her.\nBecause she does not boast of herself,\nshe becomes a shining example.\nBecause she does not glorify herself,\nshe becomes a person of merit.\nBecause she wants nothing from the world,\nthe world can not overcome her.\n\nWhen the ancient Masters said,\n\"If you want to become whole,\nthen first let yourself be broken,\"\nthey weren't using empty words.\nAll who do this will be made complete."
+  },
+  {
+    id: 23,
+    text: "Nature uses few words:\nwhen the gale blows, it will not last long;\nwhen it rains hard, it lasts but a little while;\nWhat causes these to happen? Heaven and Earth.\n\nWhy do we humans go on endlessly about little\nwhen nature does much in a little time?\nIf you open yourself to the Tao,\nyou and Tao become one.\nIf you open yourself to Virtue,\nthen you can become virtuous.\nIf you open yourself to loss,\nthen you will become lost.\n\nIf you open yourself to the Tao,\nthe Tao will eagerly welcome you.\nIf you open yourself to virtue,\nvirtue will become a part of you.\nIf you open yourself to loss,\nthe lost are glad to see you.\n\n\"When you do not trust people,\npeople will become untrustworthy.\""
+  },
+  {
+    id: 24,
+    text: "Those who stand on tiptoes\ndo not stand firmly.\nThose who rush ahead\ndon't get very far.\nThose who try to outshine others\ndim their own light.\nThose who call themselves righteous\ncan't know how wrong they are.\nThose who boast of their accomplishments\ndiminish the things they have done.\n\nCompared to the Tao, these actions are unworthy.\nIf we are to follow the Tao, we must not do these things."
+  },
+  {
+    id: 25,
+    text: "Before the universe was born\nthere was something in the chaos of the heavens.\nIt stands alone and empty,\nsolitary and unchanging.\nIt is ever present and secure.\nIt may be regarded as the Mother of the universe.\nBecause I do not know its name,\nI call it the Tao.\nIf forced to give it a name,\nI would call it 'Great'.\n\nBecause it is Great means it is everywhere.\nBeing everywhere means it is eternal.\nBeing eternal means everything returns to it.\n\nTao is great.\nHeaven is great.\nEarth is great.\nHumanity is great.\nWithin the universe, these are the four great things.\n\nHumanity follows the earth.\nEarth follows Heaven.\nHeaven follows the Tao.\nThe Tao follows only itself."
+  },
+  {
+    id: 26,
+    text: "Heaviness is the basis of lightness.\nStillness is the standard of activity.\n\nThus the Master travels all day\nwithout ever leaving her wagon.\nEven though she has much to see,\nshe is at peace in her indifference.\n\nWhy should the lord of a thousand chariots\nbe amused at the foolishness of the world?\nIf you abandon yourself to foolishness,\nyou lose touch with your beginnings.\nIf you let yourself become distracted,\nyou will lose the basis of your power."
+  },
+  {
+    id: 27,
+    text: "A good traveler leaves no tracks,\nand a skillful speaker is well rehearsed.\nA good bookkeeper has an excellent memory,\nand a well made door is easy to open and needs no locks.\nA good knot needs no rope and it can not come undone.\n\nThus the Master is willing to help everyone,\nand doesn't know the meaning of rejection.\nShe is there to help all of creation,\nand doesn't abandon even the smallest creature.\nThis is called embracing the light.\n\nWhat is a good person but a bad person's teacher?\nWhat is a bad person but raw material for his teacher?\nIf you fail to honor your teacher or fail to enjoy your student,\nyou will become deluded no matter how smart you are.\nIt is the secret of prime importance."
+  },
+  {
+    id: 28,
+    text: "Know the masculine,\nbut keep to the feminine:\nand become a watershed to the world.\nIf you embrace the world,\nthe Tao will never leave you\nand you become as a little child.\n\nKnow the white,\nyet keep to the black:\nbe a model for the world.\nIf you are a model for the world,\nthe Tao inside you will strengthen\nand you will return whole to your eternal beginning.\n\nKnow the honorable,\nbut do not shun the disgraced:\nembracing the world as it is.\nIf you embrace the world with compassion,\nthen your virtue will return you to the Uncarved Block.\n\nThe block of wood is carved into utensils\nby carving void into the wood.\nThe Master uses the utensils, yet prefers to keep to the block\nbecause of its limitless possibilities.\nGreat works do not involve discarding substance."
+  },
+  {
+    id: 29,
+    text: "Do you want to rule the world and control it?\nI don't think it can ever be done.\n\nThe world is sacred vessel\nand it can not be controlled.\nYou will only it make it worse if you try.\nIt may slip through your fingers and disappear.\n\nSome are meant to lead,\nand others are meant to follow;\nSome must always strain,\nand others have an easy time;\nSome are naturally big and strong,\nand others will always be small;\nSome will be protected and nurtured,\nand others will meet with destruction.\n\nThe Master accepts things as they are,\nand out of compassion avoids extravagance,\nexcess and the extremes."
+  },
+  {
+    id: 30,
+    text: "Those who lead people by following the Tao\ndon't use weapons to enforce their will.\nUsing force always leads to unseen troubles.\n\nIn the places where armies march,\nthorns and briars bloom and grow.\nAfter armies take to war,\nbad years must always follow.\nThe skillful commander\nstrikes a decisive blow then stops.\nWhen victory is won over the enemy through war\nit is not a thing of great pride.\nWhen the battle is over,\narrogance is the new enemy.\nWar can result when no other alternative is given,\nso the one who overcomes an enemy should not dominate them.\nThe strong always weakened with time.\n\nThis is not the way of the Tao.\nThat which is not of the Tao will soon end."
+  },
+  {
+    id: 31,
+    text: "Weapons are the bearers of bad news;\nall people should detest them.\n\nThe wise man values the left side,\nand in time of war he values the right.\nWeapons are meant for destruction,\nand thus are avoided by the wise.\nOnly as a last resort\nwill a wise person use a deadly weapon.\nIf peace is her true objective\nhow can she rejoice in the victory of war?\nThose who rejoice in victory\ndelight in the slaughter of humanity.\nThose who resort to violence\nwill never bring peace to the world.\nThe left side is a place of honor on happy occasions.\nThe right side is reserved for mourning at a funeral.\nWhen the lieutenants take the left side to prepare for war,\nthe general should be on the right side,\nbecause he knows the outcome will be death.\nThe death of many should be greeted with great sorrow,\nand the victory celebration should honor those who have died."
+  },
+  {
+    id: 32,
+    text: "The Tao is nameless and unchanging.\nAlthough it appears insignificant,\nnothing in the world can contain it.\n\nIf a ruler abides by its principles,\nthen her people will willingly follow.\nHeaven would then reign on earth,\nlike sweet rain falling on paradise.\nPeople would have no need for laws,\nbecause the law would be written on their hearts.\n\nNaming is a necessity for order,\nbut naming can not order all things.\nNaming often makes things impersonal,\nso we should know when naming should end.\nKnowing when to stop naming,\nyou can avoid the pitfall it brings.\n\nAll things end in the Tao\njust as the small streams and the largest rivers\nflow through valleys to the sea."
+  },
+  {
+    id: 33,
+    text: "Those who know others are intelligent;\nthose who know themselves are truly wise.\nThose who master others are strong;\nthose who master themselves have true power.\n\nThose who know they have enough are truly wealthy.\n\nThose who persist will reach their goal.\n\nThose who keep their course have a strong will.\nThose who embrace death will not perish,\nbut have life everlasting."
+  },
+  {
+    id: 34,
+    text: "The great Tao flows unobstructed in every direction.\nAll things rely on it to conceive and be born,\nand it does not deny even the smallest of creation.\nWhen it has accomplished great wonders,\nit does not claim them for itself.\nIt nourishes infinite worlds,\nyet it doesn't seek to master the smallest creature.\nSince it is without wants and desires,\nit can be considered humble.\nAll of creation seeks it for refuge\nyet it does not seek to master or control.\nBecause it does not seek greatness;\nit is able to accomplish truly great things."
+  },
+  {
+    id: 35,
+    text: "She who follows the way of the Tao\nwill draw the world to her steps.\nShe can go without fear of being injured,\nbecause she has found peace and tranquility in her heart.\n\nWhere there is music and good food,\npeople will stop to enjoy it.\nBut words spoken of the Tao\nseem to them boring and stale.\nWhen looked at, there is nothing for them to see.\nWhen listen for, there is nothing for them to hear.\nYet if they put it to use, it would never be exhausted."
+  },
+  {
+    id: 36,
+    text: "If you want something to return to the source,\nyou must first allow it to spread out.\nIf you want something to weaken,\nyou must first allow it to become strong.\nIf you want something to be removed,\nyou must first allow it to flourish.\nIf you want to possess something,\nyou must first give it away.\n\nThis is called the subtle understanding\nof how things are meant to be.\n\nThe soft and pliable overcomes the hard and inflexible.\n\nJust as fish remain hidden in deep waters,\nit is best to keep weapons out of sight."
+  },
+  {
+    id: 37,
+    text: "The Tao never acts with force,\nyet there is nothing that it can not do.\n\nIf rulers could follow the way of the Tao,\nthen all of creation would willingly follow their example.\nIf selfish desires were to arise after their transformation,\nI would erase them with the power of the Uncarved Block.\n\nBy the power of the Uncarved Block,\nfuture generations would lose their selfish desires.\nBy losing their selfish desires,\nthe world would naturally settle into peace."
+  },
+  {
+    id: 38,
+    text: "The highest good is not to seek to do good,\nbut to allow yourself to become it.\nThe ordinary person seeks to do good things,\nand finds that they can not do them continually.\n\nThe Master does not force virtue on others,\nthus she is able to accomplish her task.\nThe ordinary person who uses force,\nwill find that they accomplish nothing.\n\nThe kind person acts from the heart,\nand accomplishes a multitude of things.\nThe righteous person acts out of pity,\nyet leaves many things undone.\nThe moral person will act out of duty,\nand when no one will respond\nwill roll up his sleeves and uses force.\n\nWhen the Tao is forgotten, there is righteousness.\nWhen righteousness is forgotten, there is morality.\nWhen morality is forgotten, there is the law.\nThe law is the husk of faith,\nand trust is the beginning of chaos.\n\nOur basic understandings are not from the Tao\nbecause they come from the depths of our misunderstanding.\nThe master abides in the fruit and not in the husk.\nShe dwells in the Tao,\nand not with the things that hide it.\nThis is how she increases in wisdom."
+  },
+  {
+    id: 39,
+    text: "The masters of old attained unity with the Tao.\nHeaven attained unity and became pure.\nThe earth attained unity and found peace.\nThe spirits attained unity so they could minister.\nThe valleys attained unity that they might be full.\nHumanity attained unity that they might flourish.\nTheir leaders attained unity that they might set the example.\nThis is the power of unity.\n\nWithout unity, the sky becomes filthy.\nWithout unity, the earth becomes unstable.\nWithout unity, the spirits become unresponsive and disappear.\nWithout unity, the valleys become dry as a desert.\nWithout unity, human kind can't reproduce and becomes extinct.\nWithout unity, our leaders become corrupt and fall.\n\nThe great view the small as their source,\nand the high takes the low as their foundation.\nTheir greatest asset becomes their humility.\nThey speak of themselves as orphans and widows,\nthus they truly seek humility.\nDo not shine like the precious gem,\nbut be as dull as a common stone."
+  },
+  {
+    id: 40,
+    text: "All movement returns to the Tao.\nWeakness is how the Tao works.\n\nAll of creation is born from substance.\nSubstance is born of nothing-ness."
+  },
+  {
+    id: 41,
+    text: "When a superior person hears of the Tao,\nShe diligently puts it into practice.\nWhen an average person hears of the Tao,\nhe believes half of it, and doubts the other half.\nWhen a foolish person hears of the Tao,\nhe laughs out loud at the very idea.\nIf he didn't laugh,\nit wouldn't be the Tao.\n\nThus it is said:\nThe brightness of the Tao seems like darkness,\nthe advancement of the Tao seems like retreat,\nthe level path seems rough,\nthe superior path seems empty,\nthe pure seems to be tarnished,\nand true virtue doesn't seem to be enough.\nThe virtue of caution seems like cowardice,\nthe pure seems to be polluted,\nthe true square seems to have no corners,\nthe best vessels take the most time to finish,\nthe greatest sounds cannot be heard,\nand the greatest image has no form.\n\nThe Tao hides in the unnamed,\nYet it alone nourishes and completes all things."
+  },
+  {
+    id: 42,
+    text: "The Tao gave birth to One.\nThe One gave birth to Two.\nThe Two gave birth to Three.\nThe Three gave birth to all of creation.\n\nAll things carry Yin\nyet embrace Yang.\nThey blend their life breaths\nin order to produce harmony.\n\nPeople despise being orphaned, widowed and poor.\nBut the noble ones take these as their titles.\nIn losing, much is gained,\nand in gaining, much is lost.\n\nWhat others teach I too will teach:\n\"The strong and violent will not die a natural death.\""
+  },
+  {
+    id: 43,
+    text: "That which offers no resistance,\novercomes the hardest substances.\nThat which offers no resistance\ncan enter where there is no space.\n\nFew in the world can comprehend\nthe teaching without words,\nor understand the value of non-action."
+  },
+  {
+    id: 44,
+    text: "Which is more important, your honor or your life?\nWhich is more valuable, your possessions or your person?\nWhich is more destructive, success or failure?\n\nBecause of this, great love extracts a great cost\nand true wealth requires greater loss.\n\nKnowing when you have enough avoids dishonor,\nand knowing when to stop will keep you from danger\nand bring you a long, happy life."
+  },
+  {
+    id: 45,
+    text: "The greatest accomplishments seem imperfect,\nyet their usefulness is not diminished.\nThe greatest fullness seems empty,\nyet it will be inexhaustible.\n\nThe greatest straightness seems crooked.\nThe most valued skill seems like clumsiness.\nThe greatest speech seems full of stammers.\n\nMovement overcomes the cold,\nand stillness overcomes the heat.\nThat which is pure and still is the universal ideal."
+  },
+  {
+    id: 46,
+    text: "When the world follows the Tao,\nhorses run free to fertilize the fields.\nWhen the world does not follow the Tao,\nwar horses are bred outside the cities.\n\nThere is no greater transgression\nthan condoning peoples selfish desires,\nno greater disaster than being discontent,\nand no greater retribution than for greed.\n\nWhoever knows contentment will be at peace forever."
+  },
+  {
+    id: 47,
+    text: "Without opening your door,\nyou can know the whole world.\nWithout looking out your window,\nyou can understand the way of the Tao.\n\nThe more knowledge you seek,\nthe less you will understand.\n\nThe Master understands without leaving,\nsees clearly without looking,\naccomplishes much without doing anything."
+  },
+  {
+    id: 48,
+    text: "One who seeks knowledge learns something new every day.\nOne who seeks the Tao unlearns something new every day.\nLess and less remains until you arrive at non-action.\nWhen you arrive at non-action,\nnothing will be left undone.\n\nMastery of the world is achieved\nby letting things take their natural course.\nYou can not master the world by changing the natural way."
+  },
+  {
+    id: 49,
+    text: "The Master has no mind of her own.\nShe understands the mind of the people.\n\nTo those who are good she treats as good.\nTo those who aren't good she also treats as good.\nThis is how she attains true goodness.\n\nShe trusts people who are trustworthy.\nShe also trusts people who aren't trustworthy.\nThis is how she gains true trust.\n\nThe Master's mind is shut off from the world.\nOnly for the sake of the people does she muddle her mind.\nThey look to her in anticipation. Yet she treats them all as her children."
+  },
+  {
+    id: 50,
+    text: "Those who leave the womb at birth\nand those who enter their source at death,\nof these; three out of ten celebrate life,\nthree out of ten celebrate death,\nand three out of ten simply go from life to death.\nWhat is the reason for this?\nBecause they are afraid of dying,\ntherefore they can not live.\n\nI have heard that those who celebrate life\nwalk safely among the wild animals.\nWhen they go into battle, they remain unharmed.\nThe animals find no place to attack them\nand the weapons are unable to harm them.\nWhy? Because they can find no place for death in them."
+  },
+  {
+    id: 51,
+    text: "The Tao gives birth to all of creation.\nThe virtue of Tao in nature nurtures them,\nand their family gives them their form.\nTheir environment then shapes them into completion.\nThat is why every creature honors the Tao and its virtue.\n\nNo one tells them to honor the Tao and its virtue,\nit happens all by itself.\nSo the Tao gives them birth,\nand its virtue cultivates them,\ncares for them,\nnurtures them,\ngives them a place of refuge and peace,\nhelps them to grow and shelters them.\n\nIt gives them life without wanting to posses them,\nand cares for them expecting nothing in return.\nIt is their master, but it does not seek to dominate them.\nThis is called the dark and mysterious virtue."
+  },
+  {
+    id: 52,
+    text: "The world had a beginning\nwhich we call the Great Mother.\nOnce we have found the Mother,\nwe begin to know what Her children should be.\n\nWhen we know we are the Mothers child,\nwe begin to guard the qualities of the Mother in us.\nShe will protect us from all danger\neven if we lose our life.\n\nKeep your mouth closed\nand embrace a simple life,\nand you will live care-free until the end of your days.\nIf you try to talk your way into a better life\nthere will be no end to your trouble.\n\nTo understand the small is called clarity.\nKnowing how to yield is called strength.\nTo use your inner light for understanding\nregardless of the danger\nis called depending on the Constant."
+  },
+  {
+    id: 53,
+    text: "If I understood only one thing,\nI would want to use it to follow the Tao.\nMy only fear would be one of pride.\nThe Tao goes in the level places,\nbut people prefer to take the short cuts.\n\nIf too much time is spent cleaning the house\nthe land will become neglected and full of weeds,\nand the granaries will soon become empty\nbecause there is no one out working the fields.\nTo wear fancy clothes and ornaments,\nto have your fill of food and drink\nand to waste all of your money buying possessions\nis called the crime of excess.\nOh, how these things go against the way of the Tao!"
+  },
+  {
+    id: 54,
+    text: "That which is well built\nwill never be torn down.\nThat which is well latched\ncan not slip away.\nThose who do things well\nwill be honored from generation to generation.\n\nIf this idea is cultivated in the individual,\nthen his virtue will become genuine.\nIf this idea is cultivated in your family,\nthen virtue in your family will be great.\nIf this idea is cultivated in your community,\nthen virtue will go a long way.\nIf this idea is cultivated in your country,\nthen virtue will be in many places.\nIf this idea is cultivated in the world,\nthen virtue will be with everyone.\n\nThen observe the person for what the person does,\nand observe the family for what it does,\nand observe the community for what it does,\nand observe the country for what it does,\nand observe the world for what it does.\nHow do I know this saying is true?\nI observe these things and see."
+  },
+  {
+    id: 55,
+    text: "One who is filled with the Tao\nis like a newborn child.\nThe infant is protected from\nthe stinging insects, wild beasts, and birds of prey.\nIts bones are soft, its muscles are weak,\nbut its grip is firm and strong.\nIt doesn't know about the union\nof male and female,\nyet his penis can stand erect,\nbecause of the power of life within him.\nIt can cry all day and never become hoarse.\nThis is perfect harmony.\nTo understand harmony is to understand the Constant.\nTo know the Constant is to be called 'enlightened'.\nTo unnaturally try to extend life is not appropriate.\nTo try and alter the life-breath is unnatural.\nThe master understands that when something reaches its prime\nit will soon begin to decline.\nChanging the natural is against the way of the Tao.\nThose who do it will come to an early end."
+  },
+  {
+    id: 56,
+    text: "Those who know do not talk.\nThose who talk do not know.\n\nStop talking,\nmeditate in silence,\nblunt your sharpness,\nrelease your worries,\nharmonize your inner light,\nand become one with the dust.\nDoing this is called the dark and mysterious identity.\n\nThose who have achieved the mysterious identity\ncan not be approached, and they can not be alienated.\nThey can not be benefited nor harmed.\nThey can not be made noble nor to suffer disgrace.\nThis makes them the most noble of all under the heavens."
+  },
+  {
+    id: 57,
+    text: "Govern your country with integrity,\nWeapons of war can be used with great cunning,\nbut loyalty is only won by not-doing.\nHow do I know the way things are?\nBy these:\n\nThe more prohibitions you make,\nthe poorer people will be.\nThe more weapons you posses,\nthe greater the chaos in your country.\nThe more knowledge that is acquired,\nthe stranger the world will become.\nThe more laws that you make,\nthe greater the number of criminals.\n\nTherefore the Master says:\nI do nothing,\nand people become good by themselves.\nI seek peace,\nand people take care of their own problems.\nI do not meddle in their personal lives,\nand the people become prosperous.\nI let go of all my desires,\nand the people return to the Uncarved Block."
+  },
+  {
+    id: 58,
+    text: "If a government is unobtrusive,\nthe people become whole.\nIf a government is repressive,\nthe people become treacherous.\n\nGood fortune has its roots in disaster,\nand disaster lurks with good fortune.\nWho knows why these things happen,\nor when this cycle will end?\nGood things seem to change into bad,\nand bad things often turn out for good.\nThese things have always been hard to comprehend.\n\nThus the Master makes things change\nwithout interfering.\nShe is probing yet causes no harm.\nStraightforward, yet does not impose her will.\nRadiant, and easy on the eye."
+  },
+  {
+    id: 59,
+    text: "There is nothing better than moderation\nfor teaching people or serving Heaven.\nThose who use moderation\nare already on the path to the Tao.\n\nThose who follow the Tao early\nwill have an abundance of virtue.\nWhen there is an abundance of virtue,\nthere is nothing that can not be done.\nWhere there is limitless ability,\nthen the kingdom is within your grasp.\nWhen you know the Mother of the kingdom,\nthen you will be long enduring.\n\nThis is spoken of as the deep root and the firm trunk,\nthe Way to a long life and great spiritual vision."
+  },
+  {
+    id: 60,
+    text: "Governing a large country\nis like frying small fish.\nToo much poking spoils the meat.\n\nWhen the Tao is used to govern the world\nthen evil will lose its power to harm the people.\nNot that evil will no longer exist,\nbut only because it has lost its power.\nJust as evil can lose its ability to harm,\nthe Master shuns the use of violence.\n\nIf you give evil nothing to oppose,\nthen virtue will return by itself."
+  },
+  {
+    id: 61,
+    text: "A large country should take the low place like a great watershed,\nwhich from its low position assumes the female role.\nThe female overcomes the male by the power of her position.\nHer tranquility gives rise to her humility.\n\nIf a large country takes the low position,\nit will be able to influence smaller countries.\nIf smaller countries take the lower position,\nthen they can allow themselves to be influenced.\nSo both seek to take the lower position\nin order to influence the other, or be influenced.\n\nLarge countries should desire to protect and help the people,\nand small countries should desire to serve others.\nBoth large and small countries benefit greatly from humility."
+  },
+  {
+    id: 62,
+    text: "The Tao is the tabernacle of creation,\nit is a treasure for those who are good,\nand a place of refuge for those who are not.\n\nHow can those who are not good be abandoned?\nWords that are beautiful are worth much,\nbut good behavior can only be learned by example.\n\nWhen a new leader takes office,\ndon't give him gifts and offerings.\nThese things are not as valuable\nas teaching him about the Tao.\n\nWhy was the Tao esteemed by the ancient Masters?\nIs it not said: \"With it we find without looking.\nWith it we find forgiveness for our transgressions.\"\nThat is why the world can not understand it."
+  },
+  {
+    id: 63,
+    text: "Act by not acting;\ndo by not doing.\nEnjoy the plain and simple.\nFind that greatness in the small.\nTake care of difficult problems\nwhile they are still easy;\nDo easy things before they become too hard.\n\nDifficult problems are best solved while they are easy.\nGreat projects are best started while they are small.\nThe Master never takes on more than she can handle,\nwhich means that she leaves nothing undone.\n\nWhen an affirmation is given too lightly,\nkeep your eyes open for trouble ahead.\nWhen something seems too easy,\ndifficulty is hiding in the details.\nThe master expects great difficulty,\nso the task is always easier than planned."
+  },
+  {
+    id: 64,
+    text: "Things are easier to control while things are quiet.\nThings are easier to plan far in advance.\nThings break easier while they are still brittle.\nThings are easier hid while they are still small.\n\nPrevent problems before they arise.\nTake action before things get out of hand.\nThe tallest tree\nbegins as a tiny sprout.\nThe tallest building\nstarts with one shovel of dirt.\nA journey of a thousand miles\nstarts with a single footstep.\n\nIf you rush into action, you will fail.\nIf you hold on too tight, you will lose your grip.\n\nTherefore the Master lets things take their course\nand thus never fails.\nShe doesn't hold on to things\nand never loses them.\nBy pursing your goals too relentlessly,\nyou let them slip away.\nIf you are as concerned about the outcome\nas you are about the beginning,\nthen it is hard to do things wrong.\nThe master seeks no possessions.\nShe learns by unlearning,\nthus she is able to understand all things.\nThis gives her the ability to help all of creation."
+  },
+  {
+    id: 65,
+    text: "The ancient Masters\nwho understood the way of the Tao,\ndid not educate people, but made them forget.\n\nSmart people are difficult to guide,\nbecause they think they are too clever.\nTo use cleverness to rule a country,\nis to lead the country to ruin.\nTo avoid cleverness in ruling a country,\nis to lead the country to prosperity.\n\nKnowing the two alternatives is a pattern.\nRemaining aware of the pattern is a virtue.\nThis dark and mysterious virtue is profound.\nIt is opposite our natural inclination,\nbut leads to harmony with the heavens."
+  },
+  {
+    id: 66,
+    text: "Rivers and seas are rulers\nof the streams of hundreds of valleys\nbecause of the power of their low position.\n\nIf you want to be the ruler of people,\nyou must speak to them like you are their servant.\nIf you want to lead other people,\nyou must put their interest ahead of your own.\n\nThe people will not feel burdened,\nif a wise person is in a position of power.\nThe people will not feel like they are being manipulated,\nif a wise person is in front as their leader.\nThe whole world will ask for her guidance,\nand will never get tired of her.\nBecause she does not like to compete,\nno one can compete with the things she accomplishes."
+  },
+  {
+    id: 67,
+    text: "The world talks about honoring the Tao,\nbut you can't tell it from their actions.\nBecause it is thought of as great,\nthe world makes light of it.\nIt seems too easy for anyone to use.\n\nThere are three jewels that I cherish:\ncompassion, moderation, and humility.\nWith compassion, you will be able to be brave,\nWith moderation, you will be able to give to others,\nWith humility, you will be able to become a great leader.\nTo abandon compassion while seeking to be brave,\nor abandoning moderation while being benevolent,\nor abandoning humility while seeking to lead\nwill only lead to greater trouble.\nThe compassionate warrior will be the winner,\nand if compassion is your defense you will be secure.\nCompassion is the protector of Heavens salvation."
+  },
+  {
+    id: 68,
+    text: "The best warriors\ndo not use violence.\nThe best generals\ndo not destroy indiscriminately.\nThe best tacticians\ntry to avoid confrontation.\nThe best leaders\nbecomes servants of their people.\n\nThis is called the virtue of non-competition.\nThis is called the power to manage others.\nThis is called attaining harmony with the heavens."
+  },
+  {
+    id: 69,
+    text: "There is an old saying:\n\"It is better to become the passive\nin order to see what will happen.\nIt is better to retreat a foot\nthan to advance only an inch.\"\n\nThis is called\nbeing flexible while advancing,\npushing back without using force,\nand destroying the enemy without engaging him.\n\nThere is no greater disaster\nthan underestimating your enemy.\nUnderestimating your enemy\nmeans losing your greatest assets.\nWhen equal forces meet in battle,\nvictory will go to the one\nthat enters with the greatest sorrow."
+  },
+  {
+    id: 70,
+    text: "My words are easy to understand\nand easier to put into practice.\nYet no one in the world seems to understand them,\nand are not able to apply what I teach.\n\nMy teachings come from the ancients,\nthe things I do are done for a reason.\n\nBecause you do not know me,\nyou are not able to understand my teachings.\nBecause those who know me are few,\nmy teachings become even more precious."
+  },
+  {
+    id: 71,
+    text: "Knowing you don't know is wholeness.\nThinking you know is a disease.\nOnly by recognizing that you have an illness\ncan you move to seek a cure.\n\nThe Master is whole because\nshe sees her illnesses and treats them,\nand thus is able to remain whole."
+  },
+  {
+    id: 72,
+    text: "When people become overly bold,\nthen disaster will soon arrive.\n\nDo not meddle with people's livelihood;\nby respecting them they will in turn respect you.\n\nTherefore, the Master knows herself but is not arrogant.\nShe loves herself but also loves others.\nThis is how she is able to make appropriate choices."
+  },
+  {
+    id: 73,
+    text: "Being overbold and confidant is deadly.\nThe wise use of caution will keep you alive.\n\nOne is the way to death,\nand the other is the way to preserve your life.\nWho can understand the workings of Heaven?\n\nThe Tao of the universe\ndoes not compete, yet wins;\ndoes not speak, yet responds;\ndoes not command, yet is obeyed;\nand does act, but is good at directing.\n\nThe nets of Heaven are wide,\nbut nothing escapes its grasp."
+  },
+  {
+    id: 74,
+    text: "If you do not fear death,\nthen how can it intimidate you?\nIf you aren't afraid of dying,\nthere is nothing you can not do.\n\nThose who harm others\nare like inexperienced boys\ntrying to take the place \nof a great lumberjack.\nTrying to fill his shoes\nwill only get them seriously hurt."
+  },
+  {
+    id: 75,
+    text: "When people go hungry,\nthe government's taxes are too high.\nWhen people become rebellious,\nthe government has become too intrusive.\n\nWhen people begin to view death lightly,\nwealthy people have too much\nwhich causes others to starve.\n\nOnly those who do not cling to their life can save it."
+  },
+  {
+    id: 76,
+    text: "The living are soft and yielding;\nthe dead are rigid and stiff.\nLiving plants are flexible and tender;\nthe dead are brittle and dry.\n\nThose who are stiff and rigid\nare the disciples of death.\nThose who are soft and yielding\nare the disciples of life.\n\nThe rigid and stiff will be broken.\nThe soft and yielding will overcome."
+  },
+  {
+    id: 77,
+    text: "The Tao of Heaven works in the world\nlike the drawing of a bow.\nThe top is bent downward;\nthe bottom is bent up.\nThe excess is taken from,\nand the deficient is given to.\n\nThe Tao works to use the excess,\nand gives to that which is depleted.\nThe way of people is to take from the depleted,\nand give to those who already have an excess.\n\nWho is able to give to the needy from their excess?\nOnly someone who is following the way of the Tao.\n\nThis is why the Master gives\nexpecting nothing in return.\nShe does not dwell on her past accomplishments,\nand does not glory in any praise."
+  },
+  {
+    id: 78,
+    text: "Water is the softest and most yielding substance.\nYet nothing is better than water,\nfor overcoming the hard and rigid,\nbecause nothing can compete with it.\n\nEveryone knows that the soft and yielding\novercomes the rigid and hard,\nbut few can put this knowledge into practice.\n\nTherefore the Master says:\n\"Only he who is the lowest servant of the kingdom,\nis worthy to become its ruler.\nHe who is willing to tackle the most unpleasant tasks,\nis the best ruler in the world.\"\n\nTrue sayings seem contradictory."
+  },
+  {
+    id: 79,
+    text: "Difficulties remain, even after solving a problem.\nHow then can we consider that as good?\n\nTherefore the Master\ndoes what she knows is right,\nand makes no demands of others.\nA virtuous person will do the right thing,\nand persons with no virtue will take advantage of others.\n\nThe Tao does not choose sides,\nthe good person receives from the Tao\nbecause she is on its side."
+  },
+  {
+    id: 80,
+    text: "Small countries with few people are best.\nGive them all of the things they want,\nand they will see that they do not need them.\nTeach them that death is a serious thing,\nand to be content to never leave their homes.\nEven though they have plenty\nof horses, wagons and boats,\nthey won't feel that they need to use them.\nEven if they have weapons and shields,\nthey will keep them out of sight.\nLet people enjoy the simple technologies,\nlet them enjoy their food,\nlet them make their own clothes,\nlet them be content with their own homes,\nand delight in the customs that they cherish.\nAlthough the next country is close enough\nthat they can hear their roosters crowing and dogs barking,\nthey are content never to visit each other\nall of the days of their life."
+  },
+  {
+    id: 81,
+    text: "True words do not sound beautiful;\nbeautiful sounding words are not true.\nWise men don't need to debate;\nmen who need to debate are not wise.\n\nWise men are not scholars,\nand scholars are not wise.\nThe Master desires no possessions.\nSince the things she does is for the people,\nshe has more than she needs.\nThe more she gives to others,\nthe more she has for herself.\n\nThe Tao of Heaven nourishes by not forcing.\nThe Tao of the Wise person acts by not competing."
+  },
+];
