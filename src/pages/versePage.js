@@ -11,6 +11,7 @@ import {
 } from "@chakra-ui/react";
 import Grid from "../components/grid"
 import TranslateBtns from "../components/translateBtns"
+import EnglishBoxes from "../components/englishBoxes"
 
 const VersePage = () => {
   const { verseNumber } = useParams();
@@ -26,6 +27,18 @@ const VersePage = () => {
         h="full"
       >
         <VStack spacing='0px'>
+        <Box
+            w="md"
+            mt={4}
+            py={4}
+            px={6}
+            bg={["primary.200"]}
+            rounded="md"
+            justifyContent="center"
+            alignItems="center"
+          >
+            <EnglishBoxes verseNumber={parsedVerseNumber} />
+          </Box>
           <Box
             w="md"
             mt={4}
