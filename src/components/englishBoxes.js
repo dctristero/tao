@@ -18,7 +18,12 @@ const EnglishBoxes = ({ verseNumber }) => {
 
   return (
     <chakra.p key={selectedVerse.id} px={4} m={2} color={["primary.300"]}>
-      {verseText}
+      {verseText.split("\n").map((line, index) => (
+        <React.Fragment key={index}>
+          {line}
+          <br />
+        </React.Fragment>
+      ))}
     </chakra.p>
   );
 };
