@@ -10,7 +10,7 @@ import {
   VStack
 } from "@chakra-ui/react";
 import Grid from "../components/grid"
-import TranslateBtns from "../components/translateBtns"
+import TranslateBtns from "../components/translate-btns"
 
 export default function Test() {
   
