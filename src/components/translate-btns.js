@@ -9,7 +9,7 @@ import {
   Button,
 } from "@chakra-ui/react";
 
-import { chineseTexts } from "../assets/data/data";
+import { chineseTexts } from "../assets/data/chinese";
 
 const TanslateBtns = ({ verseNumber }) => {
   const selectedVerse = chineseTexts.find((verse) => verse.id === verseNumber);

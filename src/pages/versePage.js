@@ -10,8 +10,8 @@ import {
   VStack
 } from "@chakra-ui/react";
 import Grid from "../components/grid"
-import TranslateBtns from "../components/translateBtns"
-import EnglishBoxes from "../components/englishBoxes"
+import TranslateBtns from "../components/translate-btns"
+import EnglishBoxes from "../components/english-boxes"
 
 const VersePage = () => {
   const { verseNumber } = useParams();
@@ -28,7 +28,7 @@ const VersePage = () => {
       >
         <VStack spacing='0px'>
         <Box
-            w="md"
+            w="90vw"
             mt={4}
             py={4}
             px={6}
