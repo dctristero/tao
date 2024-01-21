@@ -11,6 +11,9 @@ import {
 
 import { trMcDonald } from "../assets/data/tr-mcdonald";
 
+
+// set suzuki carus texts to italicize first lines
+
 const EnglishBoxes = ({ verseNumber }) => {
   const selectedVerse = trMcDonald.find((verse) => verse.id === verseNumber);
 
