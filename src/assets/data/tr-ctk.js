@@ -200,7 +200,7 @@ export const trCTK = [
     text: `A good traveler leaves no track; A good speaker leaves no error; A good reckoner needs no counter;
     A good closer needs no bars or bolts, And yet it is impossible to open after him. A good fastener needs no cords or knots, And yet it is impossible to untie after him.
     Even if men be bad, why should they be rejected? Therefore the Sage is always a good saviour of men, And no man is rejected; He is a good saviour of things, And nothing is rejected: This is called double enlightenment.
-    Therefore good men are had men's instructors, And bad men are good men's materials.
+    Therefore good men are bad men's instructors, And bad men are good men's materials.
     Those who do not esteem their instructors, And those who do not love their materials, Though expedient, are in fact greatly confused. This is essential subtlety.`
   },
   {
@@ -299,7 +299,7 @@ export const trCTK = [
     Therefore princes and kings must call themselves 'the ignorant', 'the virtueless' and 'the unworthy'.
     Does this not mean that they take the humble as their root? What men hate most are 'the ignorant', 'the virtueless' and 'the unworthy'.
     And yet princes and kings chose them as their titles.
-    Therefore the higest fame is to have no fame.
+    Therefore the highest fame is to have no fame.
     Thus kings are increased by being diminished;
     They are diminished by being increased.
     It is undesirable to be as prominent as a single gem,
@@ -328,7 +328,7 @@ export const trCTK = [
     The purest white seems discoloured;
     The most magnificent virtue seems insufficient;
     The solidest virtue seems frail;
-    The simplest nature seems changable;
+    The simplest nature seems changeable;
     The greatest square has no angles;
     The largest vessel is never complete;
     The loudest sound can never be heard;
@@ -354,7 +354,7 @@ export const trCTK = [
     Your person or wealth, which is dearer to you?
     Gain or loss, which brings more evil to you?
     Over-love of anything will lead to wasteful spending;
-    Amassed riches will be followd by heavy plundering.
+    Amassed riches will be followed by heavy plundering.
     Therefore, he who knows contentment can never be humiliated;
     He who knows where to stop can never be perishable;
     He will long endure.`
@@ -390,7 +390,7 @@ export const trCTK = [
     One can see the Tao of heaven.
     The further one travels
     The less one knows.
-    Therefore the Sage knows everything without travelling;
+    Therefore the Sage knows everything without traveling;
     He names everything without seeing it;
     He accomplishes everything without doing it.`
   },
@@ -412,7 +412,7 @@ export const trCTK = [
     To the faithful I act with faith;
     To the faithless I also act with faith:
     Thus faith is attained.
-    The Sage lives in the world in concord, and rules ovet the world in simplicity.
+    The Sage lives in the world in concord, and rules over the world in simplicity.
     Yet what all the people turn their eyes and ears to,
     The Sage looks after as a mother does her children.`
   },
@@ -463,7 +463,7 @@ export const trCTK = [
     To wear embroidered clothes,
     To carry sharp swords,
     To be satiated in drink and food,
-    To be posessed of redundant riches -
+    To be possessed of redundant riches -
     This is called encouragement to robbery.
     Is it not deviating from Tao?`
   },
@@ -474,7 +474,7 @@ export const trCTK = [
     Thus his children and grandchildren will be able to continue their ancestral sacrifice for endless generations.
     If he applies Tao to himself his virtue will be genuine;
     If he applies it to his family his virtue will be abundant;
-    If he applies it to his villiage his virtue will be lasting;
+    If he applies it to his village his virtue will be lasting;
     If he applies it to his country his virtue will be full;
     If he applies it to the world his virtue will be universal.
     Therefore by one's person one may observe persons;
@@ -487,9 +487,9 @@ export const trCTK = [
   },
   {
     id: 55,
-    text: `He who is endowed with ample virtue may be comapred to an infant.
-    No venemous insects sting him;
-    Nor fierce beasts sieze him;
+    text: `He who is endowed with ample virtue may be compared to an infant.
+    No venomous insects sting him;
+    Nor fierce beasts seize him;
     Nor birds of prey strike him;
     His bones are frail, his sinews tender, but his grasp is strong.
     He does not know the conjugation of male and female, and yet he has sexual development;
@@ -519,7 +519,7 @@ export const trCTK = [
   {
     id: 57,
     text: `Albeit one governs the country by rectitude,
-    And carries on wars by strategems,
+    And carries on wars by stratagems,
     Yet one must rule the empire by meddling with no business.
     The empire can always be ruled by meddling with no business.
     Otherwise, it can never be done.
@@ -548,7 +548,7 @@ export const trCTK = [
     Who then can know the supremacy (good government)?
     Only when the government does no rectifying.
     Otherwise the rectitude will again become stratagem,
-    And good beome evil.
+    And good become evil.
     Men have been ignorant of this, since long ago.
     Therefore the Sage is square but does not cut others;
     He is angled but does not chip others;
@@ -681,7 +681,7 @@ export const trCTK = [
     He does not fight as if there were no enemies.
     No calamity is greater than under-estimating the enemy.
     To under-estimate the enemy is to be on the point of losing our treasure (love).
-    Threfore when opposing armies meet in the field the ruthful will win.`
+    Therefore when opposing armies meet in the field the ruthful will win.`
   },
   {
     id: 70,
@@ -762,7 +762,7 @@ export const trCTK = [
     text: `Supposing here is a small state with few people.
     Though there are various vessels I will not have them put in use.
     I will make the people regard death as a grave matter and not go far away.
-    Though they have boats and carraiges they will not travel in them.
+    Though they have boats and carriages they will not travel in them.
     Though they have armour and weapons they will not show them.
     I will let them restore the use of knotted cords (instead of writing).
     They will be satisfied with their food.

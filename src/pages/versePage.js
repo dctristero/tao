@@ -7,7 +7,8 @@ import {
   SimpleGrid,
   chakra,
   Button,
-  VStack
+  VStack,
+  Center
 } from "@chakra-ui/react";
 import Grid from "../components/grid"
 import TranslateBtns from "../components/translate-btns"
@@ -19,41 +20,33 @@ const VersePage = () => {
 
   return (
     <div>
-      <Flex
-        bg={["primary.100"]}
-        color={["primary.300"]}
-        p={[".2vw"]}
-        w="full"
-        h="full"
-      >
-        <VStack spacing='0px'>
-        <Box
-            w="90vw"
-            mt={4}
-            py={4}
-            px={6}
-            bg={["primary.200"]}
-            rounded="md"
-            justifyContent="center"
-            alignItems="center"
-          >
+      <Center>
+        <Flex
+          bg={["primary.100"]}
+          color={["primary.300"]}
+          // p={[".2vw"]}
+          w="full"
+          h="full"
+        >
+          <VStack spacing='0px' alignItems="center" w="full" maxW="800px"> {/* Set width and max-width */}
             <EnglishBoxes verseNumber={parsedVerseNumber} />
-          </Box>
-          <Box
-            w="md"
-            mt={4}
-            py={4}
-            px={6}
-            bg={["primary.200"]}
-            rounded="md"
-            justifyContent="center"
-            alignItems="center"
-          >
-            <TranslateBtns verseNumber={parsedVerseNumber} />
-          </Box>
-          <Grid />
-        </VStack>
-      </Flex>
+
+            <Box
+              w="md"
+              mt={4}
+              py={4}
+              px={6}
+              bg={["primary.200"]}
+              rounded="md"
+              justifyContent="center"
+              alignItems="center"
+            >
+              <TranslateBtns verseNumber={parsedVerseNumber} />
+            </Box>
+            <Grid />
+          </VStack>
+        </Flex>
+      </Center>
     </div>
   );
 };

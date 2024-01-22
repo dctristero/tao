@@ -1182,14 +1182,5 @@ export const trMears = [
     When he gives to others, he has much more for himself.
     Heavenly Tao blesses all and hurts no one.
     The way of the self-controlled man is to act and not to fight.`
-  },
-
-
-
-
-  {
-    id: ,
-    text: ``
-  },
-
+  }
 ];
