@@ -1,4 +1,7 @@
 import { extendTheme } from "@chakra-ui/react";
+import '@fontsource/noto-serif-tc/200.css';
+import '@fontsource/noto-serif-tc/400.css';
+import '@fontsource/noto-serif-tc/500.css';
 
 const colors = {
   primary: {
@@ -14,6 +17,12 @@ const colors = {
   },
 };
 
-const customTheme = extendTheme({ colors });
+const fonts = {
+  heading: `'Noto Serif TC', serif`,
+  body: `'Noto Serif TC', serif`,
+};
+
+
+const customTheme = extendTheme({ colors, fonts });
 
 export default customTheme;

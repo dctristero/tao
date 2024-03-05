@@ -17,13 +17,14 @@ const TanslateBtns = ({ verseNumber }) => {
   const verseText = selectedVerse.text;
 
   return (
-    <chakra.p key={selectedVerse.id} px={4} m={2} color={["primary.300"]}>
+    <chakra.p key={selectedVerse.id} fontWeight={200} px={4} m={2} color={["primary.300"]}>
       {verseText.split("").map((char, index) =>
         char === "，" || char === "。" || char === "；" || char === "！" || char === "："? (
           char
         ) : (
           <Button
             as={Link}
+            fontWeight={500}
             key={index}
             to={`https://translate.google.com/?sl=zh-TW&tl=en&text=${encodeURIComponent(
               char

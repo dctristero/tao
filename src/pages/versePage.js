@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import {
   ChakraProvider,
@@ -15,6 +15,8 @@ import TranslateBtns from "../components/translate-btns"
 import EnglishBoxes from "../components/english-boxes"
 
 const VersePage = () => {
+
+
   const { verseNumber } = useParams();
   const parsedVerseNumber = parseInt(verseNumber, 10) || 1;
 
@@ -29,6 +31,19 @@ const VersePage = () => {
           h="full"
         >
           <VStack spacing='0px' alignItems="center" w="full" maxW="800px"> {/* Set width and max-width */}
+          
+          <Box
+              mt={4}
+              py={2}
+              px={4}
+              bg={["primary.200"]}
+              rounded="md"
+              justifyContent="center"
+              alignItems="center"
+            >
+            <h1>Verse {parsedVerseNumber}</h1>
+            </Box>
+
             <EnglishBoxes verseNumber={parsedVerseNumber} />
 
             <Box

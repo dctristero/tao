@@ -14,7 +14,6 @@ import { trCTK } from "../assets/data/tr-ctk";
 import { trSuzukiCarus } from "../assets/data/tr-suzuki-carus";
 
 const EnglishBoxes = ({ verseNumber }) => {
-  const [selectedBox, setSelectedBox] = useState(null);
 
   const boxes = [
     {
@@ -39,30 +38,11 @@ const EnglishBoxes = ({ verseNumber }) => {
     },
   ];
 
-  const handleClick = (boxId) => {
-    setSelectedBox(boxId);
-  };
-
-  const sortedBoxes = [...boxes].sort(
-    (a, b) => (selectedBox === a.id ? -1 : 1) - (selectedBox === b.id ? -1 : 1)
-  );
-
   return (
     <div>
-      <Flex direction="row">
-        {boxes.map((box) => (
-          <Button
-            key={box.id}
-            onClick={() => handleClick(box.id)}
-            colorScheme={selectedBox === box.id ? "primary" : "gray"}
-            m={2}
-          >
-            {box.title}
-          </Button>
-        ))}
-      </Flex>
 
-      {sortedBoxes.map((box) => (
+
+      {boxes.map((box) => (
         <Box
           key={box.id}
           className="trbox"
@@ -75,7 +55,6 @@ const EnglishBoxes = ({ verseNumber }) => {
           display="flex"
           flexDirection="column"
           mx="auto"
-          style={{ order: selectedBox === box.id ? -1 : 0 }}
         >
           <chakra.p
             key={box.data.find((verse) => verse.id === verseNumber).id}
