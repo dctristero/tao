@@ -64,6 +64,7 @@ const Grid = () => {
           >
             {makeNum().map((number) => (
               <Button
+                fontWeight={400}
                 as={Link}
                 to={`/tao/${number}`}
                 key={number}

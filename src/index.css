@@ -8,7 +8,15 @@
   min-height: 100%;
 } */
 
+/* body {
+  font-family: 'Noto Serif TC', serif;
+} */
+
 body {
+  font-family: 'Frank Ruhl Libre Variable', serif;
+}
+
+.chinese {
   font-family: 'Noto Serif TC', serif;
 }
 

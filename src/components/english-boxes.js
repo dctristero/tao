@@ -57,6 +57,7 @@ const EnglishBoxes = ({ verseNumber }) => {
           mx="auto"
         >
           <chakra.p
+            fontWeight={300}
             key={box.data.find((verse) => verse.id === verseNumber).id}
             px={4}
             m={2}
