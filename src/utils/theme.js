@@ -2,6 +2,7 @@ import { extendTheme } from "@chakra-ui/react";
 import '@fontsource/noto-serif-tc/200.css';
 import '@fontsource/noto-serif-tc/400.css';
 import '@fontsource/noto-serif-tc/500.css';
+import '@fontsource-variable/frank-ruhl-libre';
 
 const colors = {
   primary: {
@@ -18,8 +19,8 @@ const colors = {
 };
 
 const fonts = {
-  heading: `'Noto Serif TC', serif`,
-  body: `'Noto Serif TC', serif`,
+  body: `'Frank Ruhl Libre Variable', serif`,
+  // body: `'Noto Serif TC', serif`,
 };
 
 

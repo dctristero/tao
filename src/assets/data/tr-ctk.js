@@ -40,8 +40,7 @@ export const trCTK = [
   },
   {
     id: 6,
-    text: `'The Valley and the Spirit never die.' They form what is called the Mystic Mother,.
-    From whose gate comes the origin of heaven and earth.
+    text: `
     'The Valley and the Spirit never die.' They form what is called the Mystic Mother, From whose gate comes the origin of heaven and earth. This (the origin) seems ever to endure. In use it can never be exhausted.`
   },
   {
