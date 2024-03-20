@@ -48,7 +48,7 @@ const Grid = () => {
         p={[".2vw"]}
         w="full"
         mt={4}
-        mb={4}
+        mb={12}
         // h="1000"
         justifyContent="center"
         alignItems="center"

@@ -13,6 +13,7 @@ import {
 import Grid from "../components/grid"
 import TranslateBtns from "../components/translate-btns"
 import EnglishBoxes from "../components/english-boxes"
+import Footer from "../components/footer.js";
 
 const VersePage = () => {
 
@@ -59,7 +60,9 @@ const VersePage = () => {
               <TranslateBtns verseNumber={parsedVerseNumber} />
             </Box>
             <Grid />
+          
           </VStack>
+          <Footer/>
         </Flex>
       </Center>
     </div>

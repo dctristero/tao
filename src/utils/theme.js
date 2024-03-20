@@ -6,8 +6,8 @@ import '@fontsource-variable/frank-ruhl-libre';
 
 const colors = {
   primary: {
-    100: "#0f3d2d", /* forest */
-    200: "#352d25", /* dark brown */
+    100: "#0e3527", /* forest */
+    200: "#231c17", /* dark brown */
     300: "#9de0fa", /* sky */
     400: "#90fdd5", /* seafoam  */
     500: "#524D3E", /* light brown */
