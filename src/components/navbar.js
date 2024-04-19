@@ -32,16 +32,16 @@ const Navbar = () => {
       >
         <Flex alignItems="center" justifyContent="space-between" mx="auto">
           <Flex>
-            <chakra.a
+            {/* <chakra.a
               href="/"
               title="Choc Home Page"
               display="flex"
               alignItems="center"
             >
               <VisuallyHidden>Choc</VisuallyHidden>
-            </chakra.a>
+            </chakra.a> */}
             <chakra.h1 fontSize="xl" fontWeight="medium" ml="2">
-            <Link to="/">The Public Tao Te Ching</Link>
+            <Link to="/tao/">The Public Tao Te Ching</Link>
             </chakra.h1>
           </Flex>
           <HStack display="flex" alignItems="center" spacing={1} >

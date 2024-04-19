@@ -1,4 +1,5 @@
 import Test from "./pages/test";
+import Home from "./pages/home";
 import VersePage from "./pages/versePage";
 
 import './App.css';
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/tao/" element={<Test />} />
         <Route path="/tao/:verseNumber" element={<VersePage />} />
+        <Route path="/tao/home" element={<Home />} />
       </Routes>
     </BrowserRouter>
   );

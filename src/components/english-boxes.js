@@ -18,22 +18,22 @@ const EnglishBoxes = ({ verseNumber }) => {
   const boxes = [
     {
       id: "trCTK",
-      title: "Ch'u Ta-Kao",
+      author: "Ch'u Ta-Kao",
       data: trCTK,
     },
     {
       id: "trSuzukiCarus",
-      title: "D.T. Suzuki & Paul Carus",
+      author: "D.T. Suzuki & Paul Carus",
       data: trSuzukiCarus,
     },
     {
       id: "trMears",
-      title: "Isabella Mears",
+      author: "Isabella Mears",
       data: trMears,
     },
     {
       id: "trMcDonald",
-      title: "John McDonald",
+      author: "John McDonald",
       data: trMcDonald,
     },
   ];
@@ -76,7 +76,7 @@ const EnglishBoxes = ({ verseNumber }) => {
             ))}
           </chakra.p>
           <Box mt="auto" color={["primary.300"]} alignSelf="flex-end">
-            <chakra.h2>({box.title})</chakra.h2>
+            <chakra.h2>({box.author})</chakra.h2>
           </Box>
         </Box>
       ))}
