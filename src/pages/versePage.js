@@ -23,7 +23,7 @@ const VersePage = () => {
 
   return (
     <div>
-      <Center>
+      {/* <Center> */}
         <Flex
           bg={["primary.100"]}
           color={["primary.300"]}
@@ -31,7 +31,7 @@ const VersePage = () => {
           w="full"
           h="full"
         >
-          <VStack spacing='0px' alignItems="center" w="full" maxW="800px"> {/* Set width and max-width */}
+          <VStack spacing='0px' alignItems="center" w="full" maxW="800px">
           
           <Box
               mt={4}
@@ -64,7 +64,7 @@ const VersePage = () => {
           </VStack>
           <Footer/>
         </Flex>
-      </Center>
+      {/* </Center> */}
     </div>
   );
 };
