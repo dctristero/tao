@@ -11,8 +11,8 @@ const colors = {
     300: "#9de0fa", /* sky */
     400: "#90fdd5", /* seafoam  */
     500: "#524D3E", /* light brown */
-    600: "#0A864F", /*  */
-    700: "#086F42", /*  */
+    600: "#27c19d", /* more different seafoam */
+    700: "#62e2d3", /* sky2 */
     800: "#075C37", /*  */
     900: "#064C2E", /*  */
   },
