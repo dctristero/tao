@@ -16,6 +16,29 @@ body {
   font-family: 'Frank Ruhl Libre Variable', serif;
 }
 
+.aboutbox {
+  width: 90%;
+  max-width: 800px; /* You can adjust this value if needed */
+  margin-top: 1.3em;
+  padding-top: .8em; /* Adjust as needed */
+  padding-bottom: .9em;
+  padding-left: 1.3em; /* Adjust as needed */
+  padding-right: 1.3em; /* Adjust as needed */
+  background-color: primary.200;
+  border-radius: 8px; /* Adjust as needed */
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  /*           // mt={4}
+          // py={2}
+          // px={4}
+          // rounded="md"
+          // display="flex"
+          // flexDirection="column"
+          // mx="auto" */
+}
+
 .chinese {
   font-family: 'Noto Serif TC', serif;
 }
