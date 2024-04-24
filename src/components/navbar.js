@@ -1,3 +1,5 @@
+// URGENT: MAKE MOBILENAV DISAPPEAR WHEN LINK IS CLICKED
+
 import React from "react";
 import "../App.css"
 import {Link} from "react-router-dom"
@@ -17,7 +19,6 @@ import {
 import { AiOutlineMenu } from "react-icons/ai";
 
 const Navbar = () => {
-  const bg = useColorModeValue("#1c5858", "#1c5858");
   const mobileNav = useDisclosure();
 
   return (
@@ -48,15 +49,17 @@ const Navbar = () => {
             <HStack
               spacing={0}
               mr={-1}
-              display={{ base: "none", md: "inline-flex" }}
+              display={{ base: "none", sm: "inline-flex", lg: "none" }}
             >
-              <Button as="a" href="/tao/" color={["primary.300"]} className="navbtn" variant="ghost">Home</Button>
-              <Button as="a" href="/tao/about" color={["primary.300"]} className="navbtn" variant="ghost">About</Button>
-              <Button as="a" href="/tao/contact" color={["primary.300"]} className="navbtn" variant="ghost">Contact</Button>
+              <Button as="a" href="/tao/" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">Home</Button>
+              <Button as="a" href="/tao/about" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">About</Button>
+              <Button as="a" href="/tao/contact" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">Contact</Button>
             </HStack>
-            <Box display={{ base: "inline-flex", md: "none" }}>
+            <Box 
+            // display={{ base: "inline-flex", md: "none" }}
+            >
               <IconButton
-                display={{ base: "flex", md: "none" }}
+                display={{ base: "flex", sm: "none" }}
                 aria-label="Open menu"
                 fontSize="20px"
                 color={["primary.300"]}
@@ -76,7 +79,9 @@ const Navbar = () => {
                 p={2}
                 pb={4}
                 m={2}
-                bg={bg}
+                h="100vh"
+                // w="100vw"
+                bg={["primary.200"]}
                 spacing={3}
                 rounded="sm"
                 shadow="sm"
@@ -85,21 +90,14 @@ const Navbar = () => {
                   aria-label="Close menu"
                   onClick={mobileNav.onClose}
                 />
-
-                <Button className="navbtn" w="full" variant="ghost">
-                  <Link to="/portfolio">Features</Link>
+                <Button  onClick={mobileNav.onClose} w="full" variant="ghost" color={["primary.300"]} _hover={{ bg: "primary.500" }}>
+                  <Link to="/tao/">Home</Link>
                 </Button>
-                <Button className="navbtn" w="full" variant="ghost">
-                  <Link to="/">Home</Link>
+                <Button  onClick={mobileNav.onClose} w="full" variant="ghost" color={["primary.300"]} _hover={{ bg: "primary.500" }}>
+                  <Link to="/tao/about">About</Link>
                 </Button>
-                <Button className="navbtn" w="full" variant="ghost">
-                  <Link to="/portfolio">Portfolio</Link>
-                </Button>
-                <Button className="navbtn" w="full" variant="ghost">
-                  <Link to="/about">About</Link>
-                </Button>
-                <Button className="navbtn" w="full" variant="ghost">
-                  <Link to="/contact">Contact</Link>
+                <Button  onClick={mobileNav.onClose} w="full" variant="ghost" color={["primary.300"]} _hover={{ bg: "primary.500" }}>
+                  <Link to="/tao/contact">Contact</Link>
                 </Button>
               </VStack>
             </Box>

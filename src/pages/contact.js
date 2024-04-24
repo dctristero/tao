@@ -16,7 +16,7 @@ import {
 import Grid from "../components/grid";
 import Footer from "../components/footer.js";
 
-export default function Test() {
+export default function Contact() {
   return (
     <div>
       {/* <Center> */}
