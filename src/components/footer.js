@@ -33,9 +33,9 @@ const Footer = () => {
           spacing={0}
           display={{ base: "none", md: "inline-flex" }}
         >
-              <Button as="a" href="/tao/" color={["primary.300"]} className="navbtn" variant="ghost">Home</Button>
-              <Button as="a" href="/tao/about" color={["primary.300"]} className="navbtn" variant="ghost">About</Button>
-              <Button as="a" href="/tao/contact" color={["primary.300"]} className="navbtn" variant="ghost">Contact</Button>
+              <Button as="a" href="/tao/" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">Home</Button>
+              <Button as="a" href="/tao/about" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">About</Button>
+              <Button as="a" href="/tao/contact" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">Contact</Button>
         </HStack>
 
       </Flex>
