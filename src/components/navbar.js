@@ -49,7 +49,7 @@ const Navbar = () => {
             <HStack
               spacing={0}
               mr={-1}
-              display={{ base: "none", sm: "inline-flex", lg: "none" }}
+              display={{ base: "none", sm: "inline-flex" }}
             >
               <Button as="a" href="/tao/" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">Home</Button>
               <Button as="a" href="/tao/about" color={["primary.300"]} _hover={{ bg: "primary.500" }} variant="ghost">About</Button>

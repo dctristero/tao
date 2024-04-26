@@ -48,10 +48,10 @@ const VersePage = () => {
             <EnglishBoxes verseNumber={parsedVerseNumber} />
 
             <Box
-              w="md"
+              w={{ base: "90%", md: "70%", lg: "60%" }}
               mt={4}
-              py={4}
-              px={6}
+              py={0}
+              px={3}
               bg={["primary.200"]}
               rounded="md"
               justifyContent="center"
