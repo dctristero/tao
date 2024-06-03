@@ -29,7 +29,10 @@ const VersePage = () => {
           color={["primary.300"]}
           // p={[".2vw"]}
           w="full"
-          h="full"
+          minHeight={{
+            base: "calc(100vh - 50px)",
+            sm: "calc(100vh - 60px)"
+          }}
         >
           <VStack spacing='0px' alignItems="center" w="full" maxW="800px">
           
