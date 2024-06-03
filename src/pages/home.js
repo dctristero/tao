@@ -23,9 +23,12 @@ export default function Home() {
       <Flex
         bg={["primary.100"]}
         color={["primary.300"]}
-        p={[".2vw"]}
+        // p={[".2vw"]}
         w="full"
-        h="full"
+        minHeight={{
+          base: "calc(100vh - 50px)",
+          sm: "calc(100vh - 60px)"
+        }}
       >
         <VStack spacing="0px" alignItems="center" w="full" maxW="800px">
           <Box
@@ -73,10 +76,3 @@ export default function Home() {
     </div>
   );
 }
-
-// make each set of characters an array
-// link with template literal of variable in place of chinese character
-// make value of clicked character into variable?
-// link open in new tab
-
-// "https://translate.google.com/?sl=zh-TW&tl=en&text=經&op=translate"

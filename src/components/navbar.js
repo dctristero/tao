@@ -178,7 +178,7 @@ const Navbar = () => {
       <chakra.header
         bg={["primary.200"]}
         color={["primary.300"]}
-        h={{ base: "50px", sm: "60px", xl: "75px" }}
+        h={{ base: "50px", sm: "60px"}}
         w="full"
         px={{ base: 2, sm: 4 }}
         py={0}
@@ -201,8 +201,8 @@ const Navbar = () => {
             >
               <VisuallyHidden>Choc</VisuallyHidden>
             </chakra.a>
-            <chakra.h1 fontSize="xl" fontWeight="medium" ml="2">
-              <Link to="/">Daniel Cohen</Link>
+            <chakra.h1 fontSize="2xl" fontWeight="medium" ml="2">
+              <Link to="/">The Public Tao Te Ching</Link>
             </chakra.h1>
           </Flex>
           <HStack display="flex" alignItems="center" spacing={1}>
@@ -217,6 +217,7 @@ const Navbar = () => {
                 color={["primary.300"]}
                 _hover={{ bg: "primary.500" }}
                 variant="ghost"
+                fontSize="xl"
               >
                 Home
               </Button>
@@ -226,6 +227,7 @@ const Navbar = () => {
                 color={["primary.300"]}
                 _hover={{ bg: "primary.500" }}
                 variant="ghost"
+                fontSize="xl"
               >
                 About
               </Button>
@@ -235,6 +237,7 @@ const Navbar = () => {
                 color={["primary.300"]}
                 _hover={{ bg: "primary.500" }}
                 variant="ghost"
+                fontSize="xl"
               >
                 Contact
               </Button>
