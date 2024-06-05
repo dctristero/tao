@@ -73,9 +73,9 @@ const Grid = () => {
                 borderWidth=".2vw"
                 borderRadius="0"
                 p={0}
-                minWidth={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
-                minHeight={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
-                maxHeight={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                minWidth={["9.5vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                minHeight={["9.5vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                maxHeight={["9.5vw", "8vw", "6vw", "4.5vw", "4vw"]}
                 fontSize={["1em", "1.2em", "1.4em", "1.5em"]}
                 color={["primary.300"]}
                 bg={["primary.200"]}

@@ -16,7 +16,7 @@ body {
   font-family: 'Frank Ruhl Libre Variable', serif;
 }
 
-.about-paragraph-box {
+.paragraph-box {
   /* width: 90%;
   max-width: 800px;  */
   margin-top: 1.3em;
@@ -39,7 +39,7 @@ body {
           // mx="auto" */
 }
 
-.about-heading-box {
+.heading-box {
   /* width: 90%;
   max-width: 800px;  */
   margin-top: 2.5em;

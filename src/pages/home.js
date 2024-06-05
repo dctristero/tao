@@ -53,8 +53,9 @@ export default function Home() {
             <Box
               className="homebox"
               w={{ base: "90vw", md: "80vw",  xl: "37.8vw" }}
-              py={4}
-              px={3}
+              py={{ base: "1.5", sm: "3" }}
+              // px={3}
+              px={{ base: "1.5", sm: "3" }}
               // mr="2vw"
               bg={["primary.200"]}
               rounded="md"
