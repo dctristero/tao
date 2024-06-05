@@ -27,26 +27,34 @@ export default function Contact() {
         w="full"
         minHeight={{
           base: "calc(100vh - 50px)",
-          sm: "calc(100vh - 60px)"
+          sm: "calc(100vh - 60px)",
         }}
+        justifyContent="center"
       >
-        <VStack spacing="0px" alignItems="center" w="full" maxW="800px">
-          <Box
-            className="aboutbox"
-            w={{ base: "90%", md: "70%", lg: "60%" }}
+        <VStack spacing="0px" w="full" maxW="800px">
+
+        <Box
             bg={["primary.200"]}
-            py={5}
+            maxWidth={{ base: "90vw", md: "80vw" }}
+            className="heading-box"
           >
-            <Center>
-              <chakra.h2 fontSize={"xl"} fontWeight={600} color={"primary.300"} pb={0} mb={2}> 
-                Contact Me
-              </chakra.h2>
-            </Center>
+            <chakra.h2
+              fontSize={{ base: "20", lg: "24" }}
+              fontWeight={600}
+              color={"primary.300"}
+              textAlign="center"
+            >
+              Contact Me
+            </chakra.h2>
+          </Box>
+          <Box
+            className="paragraph-box"
+            maxWidth={{ base: "90vw", md: "80vw" }}
+            bg={["primary.200"]}
+          >
             <chakra.p
-              pt={0}
-              mt={0}
-              pl={5}
-              fontWeight={500}
+              fontWeight={300}
+              fontSize={{ base: "16", lg: "18" }}
               color={["primary.300"]}
               className="translation"
             >
@@ -105,7 +113,6 @@ export default function Contact() {
             </chakra.p>
           </Box>
 
-          <Grid />
         </VStack>
         <Footer />
       </Flex>

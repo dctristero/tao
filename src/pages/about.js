@@ -35,7 +35,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -47,7 +47,7 @@ export default function About() {
             </chakra.h2>
           </Box>
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
           >
@@ -71,7 +71,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -84,7 +84,7 @@ export default function About() {
           </Box>
 
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
           >
@@ -100,6 +100,7 @@ export default function About() {
               entirely mediated through one stranger’s interpretation.
             </chakra.p>
             <chakra.p
+              fontSize={{ base: "16", lg: "18" }}
               fontWeight={300}
               color={["primary.300"]}
               className="translation"
@@ -118,7 +119,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -131,7 +132,7 @@ export default function About() {
           </Box>
 
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
           >
@@ -152,7 +153,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -165,7 +166,7 @@ export default function About() {
           </Box>
 
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
           >
@@ -181,6 +182,7 @@ export default function About() {
               fascinating, and there is little overlap between the two.
             </chakra.p>
             <chakra.p
+              fontSize={{ base: "16", lg: "18" }}
               fontWeight={300}
               color={["primary.300"]}
               className="translation"
@@ -196,7 +198,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -209,7 +211,7 @@ export default function About() {
           </Box>
 
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
           >
@@ -227,7 +229,7 @@ export default function About() {
           <Box
             bg={["primary.200"]}
             maxWidth={{ base: "90vw", md: "80vw" }}
-            className="about-heading-box"
+            className="heading-box"
           >
             <chakra.h2
               fontSize={{ base: "20", lg: "24" }}
@@ -240,7 +242,7 @@ export default function About() {
           </Box>
 
           <Box
-            className="about-paragraph-box"
+            className="paragraph-box"
             maxWidth={{ base: "90vw", md: "80vw" }}
             bg={["primary.200"]}
             mb={20}

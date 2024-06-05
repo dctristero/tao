@@ -1,9 +1,3 @@
-// centering, box size and font size breakpoints for about
-
-// set max width on about heading boxes
-// make spillover text centered in about heading boxes
-
-
 // centering, box size and font size breakpoints for contact
 // centering, box size and font size breakpoints for verse
 // set left navbar link
