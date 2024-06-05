@@ -45,22 +45,23 @@ const Grid = () => {
       <Flex
         bg={["primary.100"]}
         color={["primary.300"]}
-        p={[".2vw"]}
         w="full"
-        mt={4}
-        mb={12}
+        mt={{base: "0vw", xl:"4"}}
+        mb={{base: "5vw", xl:"12"}}
+        // ml={{ base: "0", xl: "3vw" }}
         // h="1000"
         justifyContent="center"
         alignItems="center"
         //pos="absolute"
       >
-        <Box p=".2vw">
+        <Box>
+
           <SimpleGrid
             id="grid"
             columns={9}
             spacing={0}
             borderColor={["primary.100"]}
-            borderWidth=".2vw"
+            // borderWidth=".2vw"
           >
             {makeNum().map((number) => (
               <Button
@@ -72,10 +73,10 @@ const Grid = () => {
                 borderWidth=".2vw"
                 borderRadius="0"
                 p={0}
-                m={0}
-                minWidth={["10vw", "10vw", "6vw", "4vw"]}
-                minHeight={["10vw", "10vw", "6vw", "4vw"]}
-                fontSize={["1em", "1.2em", "1.2em", "1.4em", "1.5em"]}
+                minWidth={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                minHeight={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                maxHeight={["8vw", "8vw", "6vw", "4.5vw", "4vw"]}
+                fontSize={["1em", "1.2em", "1.4em", "1.5em"]}
                 color={["primary.300"]}
                 bg={["primary.200"]}
                 _hover={{ bg: "primary.500" }}
