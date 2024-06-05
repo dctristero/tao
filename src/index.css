@@ -16,16 +16,39 @@ body {
   font-family: 'Frank Ruhl Libre Variable', serif;
 }
 
-.aboutbox {
-  width: 90%;
-  max-width: 800px; /* You can adjust this value if needed */
+.about-paragraph-box {
+  /* width: 90%;
+  max-width: 800px;  */
   margin-top: 1.3em;
-  padding-top: .8em; /* Adjust as needed */
+  padding-top: .8em; 
   padding-bottom: .9em;
-  padding-left: 1.3em; /* Adjust as needed */
-  padding-right: 1.3em; /* Adjust as needed */
+  padding-left: 1.3em;
+  padding-right: 1.3em; 
   background-color: primary.200;
-  border-radius: 8px; /* Adjust as needed */
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  /*           // mt={4}
+          // py={2}
+          // px={4}
+          // rounded="md"
+          // display="flex"
+          // flexDirection="column"
+          // mx="auto" */
+}
+
+.about-heading-box {
+  /* width: 90%;
+  max-width: 800px;  */
+  margin-top: 2.5em;
+  padding-top: .5em; 
+  padding-bottom: .6em;
+  padding-left: 1em;
+  padding-right: 1em; 
+  background-color: primary.200;
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
   margin-left: auto;
