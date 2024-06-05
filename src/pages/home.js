@@ -70,7 +70,7 @@ export default function Home() {
                 color={["primary.300"]}
                 className="translation"
               >
-                This is a resource for learning about the Tao Te Ching. Click
+                This is a resource for learning about the <em>Tao Te Ching</em>. Click
                 any number in the grid below to see four public domain
                 translations of that verse, plus the original Chinese text.
                 Click any character of the Chinese text to open a new tab with
