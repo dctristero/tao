@@ -47,7 +47,7 @@ const Grid = () => {
         color={["primary.300"]}
         w="full"
         mt={{base: "0vw", xl:"4"}}
-        mb={{base: "5vw", xl:"12"}}
+        mb={{base: "5vw", md:"14", lg:"14", xl:"12"}}
         // ml={{ base: "0", xl: "3vw" }}
         // h="1000"
         justifyContent="center"
