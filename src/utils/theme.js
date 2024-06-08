@@ -10,7 +10,7 @@ const colors = {
     200: "#231c17", /* dark brown */
     300: "#9de0fa", /* sky */
     400: "#90fdd5", /* seafoam  */
-    500: "#524D3E", /* light brown */
+    500: "#2a2824", /* light brown */
     600: "#27c19d", /* more different seafoam */
     700: "#62e2d3", /* sky2 */
     800: "#075C37", /*  */
