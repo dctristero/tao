@@ -57,6 +57,8 @@ export default function Contact() {
               fontSize={{ base: "16", lg: "18" }}
               color={["primary.300"]}
               className="translation"
+              lineHeight= '200%'
+              
             >
                             LinkedIn:&nbsp;
               <chakra.a
@@ -65,7 +67,7 @@ export default function Contact() {
                 rel="noreferrer"
                 color={["primary.300"]}
                 fontWeight="300"
-                _hover={{ textDecoration:"underline" }}
+                _hover={{ color: "teal.500" }}
                 
               >
                 Daniel Cohen
@@ -78,7 +80,7 @@ export default function Contact() {
                 rel="noreferrer"
                 color={["primary.300"]}
                 fontWeight="300"
-                _hover={{ textDecoration:"underline" }}
+                _hover={{ color: "teal.500" }}
                 
               >
                 dctristero@gmail.com
@@ -92,7 +94,7 @@ export default function Contact() {
                 rel="noreferrer"
                 color={["primary.300"]}
                 fontWeight="300"
-                _hover={{ textDecoration:"underline" }}
+                _hover={{ color: "teal.500" }}
                 
               >
                 https://dctristero.github.io/daniel-cohen-portfolio/
@@ -105,7 +107,7 @@ export default function Contact() {
                 rel="noreferrer"
                 color={["primary.300"]}
                 fontWeight="300"
-                _hover={{ textDecoration:"underline" }}
+                _hover={{ color: "teal.500" }}
                 
               >
                 https://github.com/dctristero
