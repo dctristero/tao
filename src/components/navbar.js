@@ -24,7 +24,7 @@ const Navbar = () => {
       <chakra.header
         bg={["primary.200"]}
         color={["primary.300"]}
-        h={{ base: "50px", sm: "60px"}}
+        h={{ base: "50px", sm: "60px" }}
         w="full"
         px={{ base: 2, sm: 4 }}
         py={0}
@@ -57,36 +57,42 @@ const Navbar = () => {
               mr={1}
               display={{ base: "none", md: "inline-flex" }}
             >
-              <Button
-                as="a"
-                href="/tao/"
-                color={["primary.300"]}
-                _hover={{ bg: "primary.500" }}
-                variant="ghost"
-                fontSize="xl"
-              >
-                Home
-              </Button>
-              <Button
-                as="a"
-                href="/tao/about"
-                color={["primary.300"]}
-                _hover={{ bg: "primary.500" }}
-                variant="ghost"
-                fontSize="xl"
-              >
-                About
-              </Button>
-              <Button
-                as="a"
-                href="/tao/contact"
-                color={["primary.300"]}
-                _hover={{ bg: "primary.500" }}
-                variant="ghost"
-                fontSize="xl"
-              >
-                Contact
-              </Button>
+              <Link to="/tao/">
+                <Button
+                  color={["primary.300"]}
+                  className="navbtn"
+                  variant="ghost"
+                  fontSize="xl"
+                  _hover={{ color: "primary.500" }}
+                  _active={{ color: "primary.500" }}
+                >
+                  Home
+                </Button>
+              </Link>
+              <Link to="/tao/about">
+                <Button
+                  color={["primary.300"]}
+                  className="navbtn"
+                  variant="ghost"
+                  fontSize="xl"
+                  _hover={{ color: "primary.500" }}
+                  _active={{ color: "primary.500" }}
+                >
+                  About
+                </Button>
+              </Link>
+              <Link to="/tao/contact">
+                <Button
+                  color={["primary.300"]}
+                  className="navbtn"
+                  variant="ghost"
+                  fontSize="xl"
+                  _hover={{ color: "primary.500" }}
+                  _active={{ color: "primary.500" }}
+                >
+                  Contact
+                </Button>
+              </Link>
             </HStack>
             <Box display={{ base: "inline-flex", md: "none" }}>
               <IconButton
@@ -121,33 +127,42 @@ const Navbar = () => {
                   aria-label="Close menu"
                   onClick={mobileNav.onClose}
                 />
-                <Button
-                  onClick={mobileNav.onClose}
-                  w="full"
-                  variant="ghost"
-                  color={["primary.300"]}
-                  _hover={{ bg: "primary.500" }}
-                >
-                  <Link to="/tao/">Home</Link>
-                </Button>
-                <Button
-                  onClick={mobileNav.onClose}
-                  w="full"
-                  variant="ghost"
-                  color={["primary.300"]}
-                  _hover={{ bg: "primary.500" }}
-                >
-                  <Link to="/tao/about">About</Link>
-                </Button>
-                <Button
-                  onClick={mobileNav.onClose}
-                  w="full"
-                  variant="ghost"
-                  color={["primary.300"]}
-                  _hover={{ bg: "primary.500" }}
-                >
-                  <Link to="/tao/contact">Contact</Link>
-                </Button>
+                <Link to="/tao/">
+                  <Button
+                    onClick={mobileNav.onClose}
+                    w="full"
+                    className="navbtn"
+                    variant="ghost"
+                    _hover={{ color: "primary.500" }}
+                    _active={{ color: "primary.500" }}
+                  >
+                    Home
+                  </Button>
+                </Link>
+                <Link to="/tao/about">
+                  <Button
+                    onClick={mobileNav.onClose}
+                    w="full"
+                    className="navbtn"
+                    variant="ghost"
+                    _hover={{ color: "primary.500" }}
+                    _active={{ color: "primary.500" }}
+                  >
+                    About
+                  </Button>
+                </Link>
+                <Link to="/tao/contact">
+                  <Button
+                    onClick={mobileNav.onClose}
+                    w="full"
+                    className="navbtn"
+                    variant="ghost"
+                    _hover={{ color: "primary.500" }}
+                    _active={{ color: "primary.500" }}
+                  >
+                    Contact
+                  </Button>
+                </Link>
               </VStack>
             </Box>
           </HStack>
