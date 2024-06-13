@@ -43,7 +43,9 @@
 // export default Footer;
 
 import React from "react";
-import { chakra, Flex, HStack, Button, Link } from "@chakra-ui/react";
+import { chakra, Flex, HStack, Button } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
+
 
 const Footer = () => {
   return (
@@ -70,38 +72,41 @@ const Footer = () => {
           bg: "gray.800",
         }}
       >
-                <HStack
+        <HStack
           spacing={3}
           mr={0}
           display={{ base: "none", md: "inline-flex" }}
         >
-          <Button
-            as="a"
-            href="/tao/"
-            color={["primary.300"]}
-            _hover={{ bg: "primary.500" }}
-            variant="ghost"
-          >
-            Home
-          </Button>
-          <Button
-            as="a"
-            href="/tao/about"
-            color={["primary.300"]}
-            _hover={{ bg: "primary.500" }}
-            variant="ghost"
-          >
-            About
-          </Button>
-          <Button
-            as="a"
-            href="/tao/contact"
-            color={["primary.300"]}
-            _hover={{ bg: "primary.500" }}
-            variant="ghost"
-          >
-            Contact
-          </Button>
+          <Link to="/tao/">
+            <Button
+              color={["primary.300"]}
+              variant="ghost"
+              _hover={{ bg: "primary.500" }}
+              _active={{ bg: "primary.500" }}
+            >
+              Home
+            </Button>
+          </Link>
+          <Link to="/tao/about">
+            <Button
+              color={["primary.300"]}
+              variant="ghost"
+              _hover={{ bg: "primary.500" }}
+              _active={{ bg: "primary.500" }}
+            >
+              About
+            </Button>
+          </Link>
+          <Link to="/tao/contact">
+            <Button
+              color={["primary.300"]}
+              variant="ghost"
+              _hover={{ bg: "primary.500" }}
+              _active={{ bg: "primary.500" }}
+            >
+              Contact
+            </Button>
+          </Link>
         </HStack>
       </Flex>
     </chakra.footer>

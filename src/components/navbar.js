@@ -63,8 +63,8 @@ const Navbar = () => {
                   className="navbtn"
                   variant="ghost"
                   fontSize="xl"
-                  _hover={{ color: "primary.500" }}
-                  _active={{ color: "primary.500" }}
+                  _hover={{ bg: "primary.500" }}
+                  _active={{ bg: "primary.500" }}
                 >
                   Home
                 </Button>
@@ -75,8 +75,8 @@ const Navbar = () => {
                   className="navbtn"
                   variant="ghost"
                   fontSize="xl"
-                  _hover={{ color: "primary.500" }}
-                  _active={{ color: "primary.500" }}
+                  _hover={{ bg: "primary.500" }}
+                  _active={{ bg: "primary.500" }}
                 >
                   About
                 </Button>
@@ -87,8 +87,8 @@ const Navbar = () => {
                   className="navbtn"
                   variant="ghost"
                   fontSize="xl"
-                  _hover={{ color: "primary.500" }}
-                  _active={{ color: "primary.500" }}
+                  _hover={{ bg: "primary.500" }}
+                  _active={{ bg: "primary.500" }}
                 >
                   Contact
                 </Button>
@@ -129,36 +129,39 @@ const Navbar = () => {
                 />
                 <Link to="/tao/">
                   <Button
+                    color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
                     w="full"
                     className="navbtn"
                     variant="ghost"
-                    _hover={{ color: "primary.500" }}
-                    _active={{ color: "primary.500" }}
+                    _hover={{ bg: "primary.500" }}
+                    _active={{ bg: "primary.500" }}
                   >
                     Home
                   </Button>
                 </Link>
                 <Link to="/tao/about">
                   <Button
+                    color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
                     w="full"
                     className="navbtn"
                     variant="ghost"
-                    _hover={{ color: "primary.500" }}
-                    _active={{ color: "primary.500" }}
+                    _hover={{ bg: "primary.500" }}
+                    _active={{ bg: "primary.500" }}
                   >
                     About
                   </Button>
                 </Link>
                 <Link to="/tao/contact">
                   <Button
+                    color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
                     w="full"
                     className="navbtn"
                     variant="ghost"
-                    _hover={{ color: "primary.500" }}
-                    _active={{ color: "primary.500" }}
+                    _hover={{ bg: "primary.500" }}
+                    _active={{ bg: "primary.500" }}
                   >
                     Contact
                   </Button>
