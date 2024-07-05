@@ -48,7 +48,7 @@ const Navbar = () => {
               <VisuallyHidden>Choc</VisuallyHidden>
             </chakra.a>
             <chakra.h1 fontSize="2xl" fontWeight="medium" ml="2">
-              <Link to="/tao/">The Public Tao Te Ching</Link>
+              <Link to="/">The Public Tao Te Ching</Link>
             </chakra.h1>
           </Flex>
           <HStack display="flex" alignItems="center" spacing={1}>
@@ -57,7 +57,7 @@ const Navbar = () => {
               mr={1}
               display={{ base: "none", md: "inline-flex" }}
             >
-              <Link to="/tao/">
+              <Link to="/">
                 <Button
                   color={["primary.300"]}
                   className="navbtn"
@@ -69,7 +69,7 @@ const Navbar = () => {
                   Home
                 </Button>
               </Link>
-              <Link to="/tao/about">
+              <Link to="/about">
                 <Button
                   color={["primary.300"]}
                   className="navbtn"
@@ -81,7 +81,7 @@ const Navbar = () => {
                   About
                 </Button>
               </Link>
-              <Link to="/tao/contact">
+              <Link to="/contact">
                 <Button
                   color={["primary.300"]}
                   className="navbtn"
@@ -127,7 +127,7 @@ const Navbar = () => {
                   aria-label="Close menu"
                   onClick={mobileNav.onClose}
                 />
-                <Link to="/tao/">
+                <Link to="/">
                   <Button
                     color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
@@ -140,7 +140,7 @@ const Navbar = () => {
                     Home
                   </Button>
                 </Link>
-                <Link to="/tao/about">
+                <Link to="/about">
                   <Button
                     color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
@@ -153,7 +153,7 @@ const Navbar = () => {
                     About
                   </Button>
                 </Link>
-                <Link to="/tao/contact">
+                <Link to="/contact">
                   <Button
                     color={{ bg: "primary.300" }}
                     onClick={mobileNav.onClose}
