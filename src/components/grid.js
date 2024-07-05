@@ -67,7 +67,7 @@ const Grid = () => {
               <Button
                 fontWeight={400}
                 as={Link}
-                to={`/tao/${number}`}
+                to={`/${number}`}
                 key={number}
                 borderColor={["primary.100"]}
                 borderWidth=".2vw"

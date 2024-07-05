@@ -5,23 +5,23 @@ import About from "./pages/about";
 import Contact from "./pages/contact";
 
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from "./components/navbar.js";
 
 // look at rachelreact for darkmode reference
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Routes>
-        <Route path="/tao/" element={<Home />} />
-        <Route path="/tao/:verseNumber" element={<VersePage />} />
-        <Route path="/tao/home" element={<Home />} />
-        <Route path="/tao/about" element={<About />} />
-        <Route path="/tao/contact" element={<Contact />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/:verseNumber" element={<VersePage />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
