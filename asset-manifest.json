@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tao/static/css/main.5fefec48.css",
-    "main.js": "/tao/static/js/main.fe60ff42.js",
+    "main.js": "/tao/static/js/main.81a8baef.js",
     "static/media/noto-serif-tc-114-500-normal.woff": "/tao/static/media/noto-serif-tc-114-500-normal.7271c563ebbbfc8468b6.woff",
     "static/media/noto-serif-tc-114-400-normal.woff": "/tao/static/media/noto-serif-tc-114-400-normal.6966d0d2e1139d4f051d.woff",
     "static/media/noto-serif-tc-114-200-normal.woff": "/tao/static/media/noto-serif-tc-114-200-normal.5e8638091cced9d57824.woff",
@@ -637,10 +637,10 @@
     "static/media/noto-serif-tc-97-400-normal.woff2": "/tao/static/media/noto-serif-tc-97-400-normal.a3352274f7d318f76e6a.woff2",
     "index.html": "/tao/index.html",
     "main.5fefec48.css.map": "/tao/static/css/main.5fefec48.css.map",
-    "main.fe60ff42.js.map": "/tao/static/js/main.fe60ff42.js.map"
+    "main.81a8baef.js.map": "/tao/static/js/main.81a8baef.js.map"
   },
   "entrypoints": [
     "static/css/main.5fefec48.css",
-    "static/js/main.fe60ff42.js"
+    "static/js/main.81a8baef.js"
   ]
 }
